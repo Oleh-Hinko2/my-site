@@ -1,0 +1,25 @@
+.hike {
+    height: 150px;
+    background-color: red;
+}
+.hike  p {
+    color: aqua;
+    font-size: 18px;
+}
+.row {
+    display: flex;
+
+}
+.row .col {
+    width: 50%;
+    background-color: black;
+    color: aliceblue;
+    border: 1px solid darkblue;
+}
+footer {
+    background: pink;
+
+}
+footer span {
+    font-size: 5vw;
+}
